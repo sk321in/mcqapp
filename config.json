@@ -18,7 +18,7 @@
     "show_post_list_header": true,
     "show_post_list_short_description": true,
     "show_post_date": true,
-    "show_related_post": true,
+    "show_related_post": false,
     "open_link_inside_app": true,
     "enable_exit_dialog": true,
     "enable_rtl_mode": false,
